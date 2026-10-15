@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HUY\\7.NET C SHARP\\CAD_API\\GenLayout\\AutoCAD 2026 Plugin CS1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71D9388A-A719-46DA-86FD-ED8B524AD0C9}|AutoCAD 2026 Plugin CS1\\AutoCAD 2026 Plugin CS1.csproj|d:\\huy\\7.net c sharp\\cad_api\\genlayout\\autocad 2026 plugin cs1\\autocad 2026 plugin cs1\\mycommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D9388A-A719-46DA-86FD-ED8B524AD0C9}|AutoCAD 2026 Plugin CS1\\AutoCAD 2026 Plugin CS1.csproj|solutionrelative:autocad 2026 plugin cs1\\mycommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D9388A-A719-46DA-86FD-ED8B524AD0C9}|AutoCAD 2026 Plugin CS1\\AutoCAD 2026 Plugin CS1.csproj|d:\\huy\\7.net c sharp\\cad_api\\genlayout\\autocad 2026 plugin cs1\\autocad 2026 plugin cs1\\model\\viewportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D9388A-A719-46DA-86FD-ED8B524AD0C9}|AutoCAD 2026 Plugin CS1\\AutoCAD 2026 Plugin CS1.csproj|solutionrelative:autocad 2026 plugin cs1\\model\\viewportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D9388A-A719-46DA-86FD-ED8B524AD0C9}|AutoCAD 2026 Plugin CS1\\AutoCAD 2026 Plugin CS1.csproj|d:\\huy\\7.net c sharp\\cad_api\\genlayout\\autocad 2026 plugin cs1\\autocad 2026 plugin cs1\\views\\genlayoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D9388A-A719-46DA-86FD-ED8B524AD0C9}|AutoCAD 2026 Plugin CS1\\AutoCAD 2026 Plugin CS1.csproj|solutionrelative:autocad 2026 plugin cs1\\views\\genlayoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenLayoutForm.cs",
+              "DocumentMoniker": "D:\\HUY\\7.NET C SHARP\\CAD_API\\GenLayout\\AutoCAD 2026 Plugin CS1\\AutoCAD 2026 Plugin CS1\\Views\\GenLayoutForm.cs",
+              "RelativeDocumentMoniker": "AutoCAD 2026 Plugin CS1\\Views\\GenLayoutForm.cs",
+              "ToolTip": "D:\\HUY\\7.NET C SHARP\\CAD_API\\GenLayout\\AutoCAD 2026 Plugin CS1\\AutoCAD 2026 Plugin CS1\\Views\\GenLayoutForm.cs",
+              "RelativeToolTip": "AutoCAD 2026 Plugin CS1\\Views\\GenLayoutForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T15:33:29.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewportItem.cs",
+              "DocumentMoniker": "D:\\HUY\\7.NET C SHARP\\CAD_API\\GenLayout\\AutoCAD 2026 Plugin CS1\\AutoCAD 2026 Plugin CS1\\Model\\ViewportItem.cs",
+              "RelativeDocumentMoniker": "AutoCAD 2026 Plugin CS1\\Model\\ViewportItem.cs",
+              "ToolTip": "D:\\HUY\\7.NET C SHARP\\CAD_API\\GenLayout\\AutoCAD 2026 Plugin CS1\\AutoCAD 2026 Plugin CS1\\Model\\ViewportItem.cs",
+              "RelativeToolTip": "AutoCAD 2026 Plugin CS1\\Model\\ViewportItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T15:31:13.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "myCommands.cs",
+              "DocumentMoniker": "D:\\HUY\\7.NET C SHARP\\CAD_API\\GenLayout\\AutoCAD 2026 Plugin CS1\\AutoCAD 2026 Plugin CS1\\myCommands.cs",
+              "RelativeDocumentMoniker": "AutoCAD 2026 Plugin CS1\\myCommands.cs",
+              "ToolTip": "D:\\HUY\\7.NET C SHARP\\CAD_API\\GenLayout\\AutoCAD 2026 Plugin CS1\\AutoCAD 2026 Plugin CS1\\myCommands.cs",
+              "RelativeToolTip": "AutoCAD 2026 Plugin CS1\\myCommands.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T13:48:03.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
